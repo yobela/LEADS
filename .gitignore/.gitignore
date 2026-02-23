@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local DMD and VAR experiment files
+DMD_readme.md
+VAR_readme.md
+run_dmd.py
+run_var.py
+exp/dmd_results/
+exp/var_results/
