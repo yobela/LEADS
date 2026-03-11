@@ -1,5 +1,0 @@
-VAR(p) results
-dataset=lv p=1 mode=one_per_env n_env=10
-train_mse_one_step = 1.802857e-03
-test_mse_one_step  = 5.705424e-03 +- 5.902695e-03
-test_mse_rollout   = 2.408375e-02 +- 2.507502e-02
